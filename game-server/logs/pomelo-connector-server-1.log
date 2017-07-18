@@ -1,0 +1,251 @@
+[2017-07-17 16:51:10.798] [INFO] pomelo - [32m[E:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-17 16:51:11.317] [INFO] pomelo - [32m[E:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-17 16:51:11.320] [INFO] pomelo - [32m[E:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-17 16:51:11.320] [INFO] pomelo - [32m[E:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 456 ms
+[2017-07-17 17:01:38.683] [DEBUG] pomelo - [36m[E:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-17 17:01:38.695] [DEBUG] pomelo - [36m[E:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":"hello pomelo","compressGzip":0}
+[2017-07-17 17:01:38.697] [DEBUG] pomelo - [36m[E:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.entryHandler.entry, msg: {"code":200,"msg":"game server is ok."}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-17 18:15:06.237] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-17 18:15:06.786] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-17 18:15:06.790] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-17 18:15:06.790] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 474 ms
+[2017-07-17 18:15:19.275] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-17 18:15:19.294] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":"hello pomelo","compressGzip":0}
+[2017-07-17 18:15:19.299] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.entryHandler.entry, msg: {"code":200,"msg":"game server is ok."}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-17 18:29:24.403] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 16:58:25.556] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 16:58:26.265] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 16:58:26.269] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 16:58:26.269] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 586 ms
+[2017-07-18 21:22:16.998] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:22:17.683] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:22:17.686] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:22:17.687] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 560 ms
+[2017-07-18 21:22:24.992] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:22:25.014] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.entryHandler.enter","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:22:25.016] [WARN] pomelo - [33m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find the method enter in handler: entryHandler
+[2017-07-18 21:22:25.016] [ERROR] pomelo - [31m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "connector.entryHandler.enter"
+[2017-07-18 21:22:25.018] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.enter
+    at Service.handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:35:30)
+    at handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at dispatch (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:107:7)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+[2017-07-18 21:22:25.019] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.entryHandler.enter, msg: {"code":500}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:22:25.026] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 21:24:43.764] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 2
+[2017-07-18 21:24:43.770] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 2, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.handler.enterHandler","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:24:43.772] [WARN] pomelo - [33m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find handler for routeRecord: {"route":"connector.handler.enterHandler","serverType":"connector","handler":"handler","method":"enterHandler"}
+[2017-07-18 21:24:43.772] [ERROR] pomelo - [31m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "connector.handler.enterHandler"
+[2017-07-18 21:24:43.773] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.handler.enterHandler
+    at Service.handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:35:30)
+    at handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at dispatch (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:107:7)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+[2017-07-18 21:24:43.773] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.handler.enterHandler, msg: {"code":500}, receivers: [2], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:24:43.781] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 2
+[2017-07-18 21:25:39.034] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 3
+[2017-07-18 21:25:39.044] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 3, msg: {"id":1,"type":0,"compressRoute":0,"route":"servers.connector.handler.entryHandler","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:25:39.044] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: servers.connector.handler.entryHandler, msg: {"code":500}, receivers: [3], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:25:39.050] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 3
+[2017-07-18 21:25:47.259] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 4
+[2017-07-18 21:25:47.266] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 4, msg: {"id":2,"type":0,"compressRoute":0,"route":"servers.connector.handler.entryHandler","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:25:47.266] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 2, route: servers.connector.handler.entryHandler, msg: {"code":500}, receivers: [4], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:25:47.269] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 4
+[2017-07-18 21:26:23.764] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 5
+[2017-07-18 21:26:23.768] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 5, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.handler.entryHandler","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:26:23.768] [WARN] pomelo - [33m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find handler for routeRecord: {"route":"connector.handler.entryHandler","serverType":"connector","handler":"handler","method":"entryHandler"}
+[2017-07-18 21:26:23.768] [ERROR] pomelo - [31m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "connector.handler.entryHandler"
+[2017-07-18 21:26:23.769] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.handler.entryHandler
+    at Service.handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:35:30)
+    at handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at dispatch (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:107:7)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+[2017-07-18 21:26:23.769] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.handler.entryHandler, msg: {"code":500}, receivers: [5], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:26:23.775] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 5
+[2017-07-18 21:26:59.294] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 6
+[2017-07-18 21:26:59.298] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 6, msg: {"id":2,"type":0,"compressRoute":0,"route":"connector.handler.entryHandler","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:26:59.298] [WARN] pomelo - [33m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find handler for routeRecord: {"route":"connector.handler.entryHandler","serverType":"connector","handler":"handler","method":"entryHandler"}
+[2017-07-18 21:26:59.299] [ERROR] pomelo - [31m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "connector.handler.entryHandler"
+[2017-07-18 21:26:59.299] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.handler.entryHandler
+    at Service.handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:35:30)
+    at handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at dispatch (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:107:7)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+[2017-07-18 21:26:59.299] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 2, route: connector.handler.entryHandler, msg: {"code":500}, receivers: [6], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:26:59.303] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 6
+[2017-07-18 21:27:46.547] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:27:47.336] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:27:47.341] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:27:47.341] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 690 ms
+[2017-07-18 21:27:48.666] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:27:48.679] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":3,"type":0,"compressRoute":0,"route":"connector.handler.entryHandler","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:27:48.694] [WARN] pomelo - [33m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find handler for routeRecord: {"route":"connector.handler.entryHandler","serverType":"connector","handler":"handler","method":"entryHandler"}
+[2017-07-18 21:27:48.694] [ERROR] pomelo - [31m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "connector.handler.entryHandler"
+[2017-07-18 21:27:48.696] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.handler.entryHandler
+    at Service.handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:36:30)
+    at handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at dispatch (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:107:7)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+[2017-07-18 21:27:48.697] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 3, route: connector.handler.entryHandler, msg: {"code":500}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:27:48.704] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 21:28:06.999] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:28:07.673] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:28:07.677] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:28:07.678] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 593 ms
+[2017-07-18 21:28:53.438] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:28:53.454] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.handler.entryHandler","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:28:53.477] [WARN] pomelo - [33m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find handler for routeRecord: {"route":"connector.handler.entryHandler","serverType":"connector","handler":"handler","method":"entryHandler"}
+[2017-07-18 21:28:53.477] [ERROR] pomelo - [31m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "connector.handler.entryHandler"
+[2017-07-18 21:28:53.480] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.handler.entryHandler
+    at Service.handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:36:30)
+    at handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at dispatch (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:107:7)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+[2017-07-18 21:28:53.481] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.handler.entryHandler, msg: {"code":500}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:28:53.487] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 21:29:49.122] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:29:49.688] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:29:49.692] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:29:49.693] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 472 ms
+[2017-07-18 21:29:52.871] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:29:52.880] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":2,"type":0,"compressRoute":0,"route":"connector.handler.entryHandler","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:29:52.892] [WARN] pomelo - [33m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find handler for routeRecord: {"route":"connector.handler.entryHandler","serverType":"connector","handler":"handler","method":"entryHandler"}
+[2017-07-18 21:29:52.893] [ERROR] pomelo - [31m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "connector.handler.entryHandler"
+[2017-07-18 21:29:52.894] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.handler.entryHandler
+    at Service.handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:36:30)
+    at handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at dispatch (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:107:7)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+[2017-07-18 21:29:52.895] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 2, route: connector.handler.entryHandler, msg: {"code":500}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:29:52.901] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 21:30:00.563] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 2
+[2017-07-18 21:30:00.592] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 2, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.handler.entryHandler","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:30:00.594] [WARN] pomelo - [33m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39mcould not find handler for routeRecord: {"route":"connector.handler.entryHandler","serverType":"connector","handler":"handler","method":"entryHandler"}
+[2017-07-18 21:30:00.594] [ERROR] pomelo - [31m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js] [39m[handleManager]: fail to find handler for "connector.handler.entryHandler"
+[2017-07-18 21:30:00.594] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js] [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.handler.entryHandler
+    at Service.handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\handlerService.js:36:30)
+    at handle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:375:25)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+    at doHandle (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:388:3)
+    at dispatch (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:107:7)
+    at next (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:50:7)
+    at Service.beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\filterService.js:65:3)
+    at beforeFilter (e:\modo\project\game\game-server\node_modules\pomelo\lib\server\server.js:242:8)
+[2017-07-18 21:30:00.595] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.handler.entryHandler, msg: {"code":500}, receivers: [2], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:30:00.605] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 2
+[2017-07-18 21:31:06.995] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 3
+[2017-07-18 21:31:07.006] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 3, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.handler.entryHandler.entry","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:31:07.007] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.handler.entryHandler.entry, msg: {"code":500}, receivers: [3], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:31:07.012] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 3
+[2017-07-18 21:33:36.973] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 4
+[2017-07-18 21:33:36.998] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 4, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:33:36.999] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.entryHandler.entry, msg: {"code":200,"msg":"game server is ok."}, receivers: [4], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:33:37.004] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 4
+[2017-07-18 21:35:44.928] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:35:45.736] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:35:45.741] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:35:45.741] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 677 ms
+[2017-07-18 21:35:54.231] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:35:54.243] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":2,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:35:54.258] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 2, route: connector.entryHandler.entry, msg: {"code":200,"msg":"game server is ok."}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:35:54.268] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 21:38:25.776] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:38:26.564] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:38:26.569] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:38:26.569] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 688 ms
+[2017-07-18 21:38:28.308] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:38:28.324] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":3,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:38:34.323] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\connectors\commands\heartbeat.js] [39mclient 1 heartbeat timeout.
+[2017-07-18 21:38:34.324] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 21:38:38.471] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 2
+[2017-07-18 21:38:38.497] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 2, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:38:44.497] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\connectors\commands\heartbeat.js] [39mclient 2 heartbeat timeout.
+[2017-07-18 21:38:44.497] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 2
+[2017-07-18 21:39:16.289] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:39:17.080] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:39:17.084] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:39:17.084] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 710 ms
+[2017-07-18 21:39:19.067] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:39:19.080] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":2,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:39:19.112] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 2, route: connector.entryHandler.entry, msg: {"code":200,"msg":"game server is ok."}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:39:19.121] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 21:40:44.992] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:40:45.656] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:40:45.663] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:40:45.664] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 560 ms
+[2017-07-18 21:40:53.152] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:40:53.171] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:40:53.190] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.entryHandler.entry, msg: {"code":200,"msg":"game server is ok."}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:40:53.196] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 21:42:30.756] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:42:31.546] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:42:31.550] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:42:31.551] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 663 ms
+[2017-07-18 21:42:40.448] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:42:40.461] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:42:40.484] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39msession on [connector-server-1] bind with uid: 1
+[2017-07-18 21:42:40.485] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.entryHandler.entry, msg: {"code":200,"msg":"login success"}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:42:40.492] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 21:43:44.544] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:43:45.187] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:43:45.191] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:43:45.191] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 520 ms
+[2017-07-18 21:43:51.004] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:43:51.024] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:43:51.047] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39msession on [connector-server-1] bind with uid: 1
+[2017-07-18 21:43:51.049] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.entryHandler.entry, msg: {"code":200,"msg":"login success"}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:43:57.022] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\connectors\commands\heartbeat.js] [39mclient 1 heartbeat timeout.
+[2017-07-18 21:43:57.023] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
+[2017-07-18 21:45:18.753] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-18 21:45:19.488] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-18 21:45:19.492] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-18 21:45:19.492] [INFO] pomelo - [32m[e:\modo\project\game\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 655 ms
+[2017-07-18 21:45:25.065] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-18 21:45:25.082] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":1,"type":0,"compressRoute":0,"route":"connector.entryHandler.entry","body":{"uid":"1"},"compressGzip":0}
+[2017-07-18 21:45:25.097] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39msession on [connector-server-1] bind with uid: 1
+[2017-07-18 21:45:25.097] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 1, route: connector.entryHandler.entry, msg: {"code":200,"msg":"login success"}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}
+[2017-07-18 21:45:25.108] [DEBUG] pomelo - [36m[e:\modo\project\game\game-server\node_modules\pomelo\lib\common\service\sessionService.js] [39msession on [connector-server-1] is closed with session id: 1
