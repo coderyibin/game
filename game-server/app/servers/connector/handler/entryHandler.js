@@ -43,7 +43,7 @@ var onUserLeave = function(app, session) {
 		return;
 	}
 	console.log("to kick player");
-	app.rpc.game.friendRemote.delInviteFriendMsg(session, session.uid,null);
+	//app.rpc.game.friendRemote.delInviteFriendMsg(session, session.uid,null);
 };
 
 /**
