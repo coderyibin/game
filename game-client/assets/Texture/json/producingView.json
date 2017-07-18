@@ -1,0 +1,730 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "1738166521",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "BlendMod": {
+        "dstAlpha": "oneMinusSrcAlpha",
+        "dstColor": "oneMinusSrcAlpha",
+        "srcAlpha": "srcAlpha",
+        "srcColor": "srcAlpha"
+      },
+      "Children": [ {
+        "ActionTag": "1902994385",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTopBg",
+        "Path": "assets/image/bg/bg5.png",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 768,
+          "y": 132
+        }
+      }, {
+        "ActionTag": "-2056137160",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 18, 15, 18, 15 ],
+        "IsVisible": true,
+        "Name": "imgBg",
+        "Path": "assets/image/image9/image13.png",
+        "Position": {
+          "x": 0,
+          "y": 733.0029
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 750,
+          "y": 1200
+        }
+      }, {
+        "ActionTag": "-884130511",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 14, 12, 14, 12 ],
+        "IsVisible": true,
+        "Name": "imgTitleBg",
+        "Path": "assets/image/image9/image12.png",
+        "Position": {
+          "x": 0,
+          "y": 95
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 238.5937,
+          "y": 45
+        }
+      }, {
+        "ActionTag": "238580425",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Children": [ {
+          "ActionTag": "878829496",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0,
+            "y": 1
+          },
+          "BlendMod": {
+            "dstAlpha": "oneMinusSrcAlpha",
+            "dstColor": "oneMinusSrcAlpha",
+            "srcAlpha": "srcAlpha",
+            "srcColor": "srcAlpha"
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgFlower",
+          "Path": "assets/image/bg/bg6.png",
+          "Position": {
+            "x": -370.49355,
+            "y": 595.22905
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 750,
+            "y": 1334
+          }
+        } ],
+        "Class": "Container",
+        "IsVisible": true,
+        "Name": "gContainer",
+        "Position": {
+          "x": -370.466,
+          "y": 1327.9993
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 740.9871,
+          "y": 1190.4581
+        }
+      }, {
+        "ActionTag": "1112059069",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTitle",
+        "Path": "assets/image/title/title7.png",
+        "Position": {
+          "x": -0.0002,
+          "y": 95.0001
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 158,
+          "y": 34
+        }
+      }, {
+        "ActionTag": "-324071849",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgLRope",
+        "Path": "assets/image/other/rope.png",
+        "Position": {
+          "x": -338.4431,
+          "y": 126.2769
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 24,
+          "y": 76
+        }
+      }, {
+        "ActionTag": "-1083894262",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgRRope",
+        "Path": "assets/image/other/rope.png",
+        "Position": {
+          "x": 334.8028,
+          "y": 126.584
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": -1,
+          "y": 1
+        },
+        "Size": {
+          "x": 24,
+          "y": 76
+        }
+      }, {
+        "ActionTag": "1208902801",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 11, 18, 11, 18 ],
+        "IsVisible": true,
+        "Name": "imgContentBg",
+        "Path": "assets/image/image9/image14.png",
+        "Position": {
+          "x": 0,
+          "y": 763.2522
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 720,
+          "y": 1100
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gBack",
+      "Position": {
+        "x": 375,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-996272328",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn8.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 90,
+          "y": 98
+        }
+      },
+      "Edge": [ 15, 15, 11, 11 ],
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btnClose",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn8_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 90,
+          "y": 98
+        }
+      },
+      "Position": {
+        "x": 705,
+        "y": 111
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 90,
+        "y": 98
+      }
+    }, {
+      "ActionTag": "92598362",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "-1123211155",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "Children": [ {
+          "ActionTag": "-814917463",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgProgressBg",
+          "Path": "assets/image/progress/progress1_bg1.png",
+          "Position": {
+            "x": -9.6073,
+            "y": 1.9238
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 176,
+            "y": 42
+          }
+        }, {
+          "ActionTag": "778087783",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgRes",
+          "Path": "assets/image/res/2.png",
+          "Position": {
+            "x": 0,
+            "y": -0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 62,
+            "y": 50
+          }
+        }, {
+          "ActionTag": "571571814",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Text",
+          "FontSize": "20",
+          "IsVisible": true,
+          "LabelText": "0",
+          "Name": "txtValue",
+          "OutLineColor": [ 0, 0, 0, 1 ],
+          "OutlineEnabled": "True",
+          "Position": {
+            "x": 83.0005,
+            "y": 1.0028
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+          "ShadowOffset": [ 2, 2 ],
+          "Size": {
+            "x": 0,
+            "y": 0
+          },
+          "TextColor": [ 1, 1, 1, 1 ]
+        } ],
+        "Class": "Group",
+        "IsVisible": true,
+        "Name": "money",
+        "Position": {
+          "x": -132.4851,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 0,
+          "y": 0
+        }
+      }, {
+        "ActionTag": "-1816227055",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "Children": [ {
+          "ActionTag": "1378669977",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgProgressBg",
+          "Path": "assets/image/progress/progress1_bg1.png",
+          "Position": {
+            "x": -9.8036,
+            "y": 1.9238
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 176,
+            "y": 42
+          }
+        }, {
+          "ActionTag": "-365631821",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgRes",
+          "Path": "assets/image/res/3.png",
+          "Position": {
+            "x": 0,
+            "y": -0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 62,
+            "y": 68
+          }
+        }, {
+          "ActionTag": "351238861",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Text",
+          "FontSize": "20",
+          "IsVisible": true,
+          "LabelText": "0",
+          "Name": "txtValue",
+          "OutLineColor": [ 0, 0, 0, 1 ],
+          "OutlineEnabled": "True",
+          "Position": {
+            "x": 86.0005,
+            "y": 1.0028
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+          "ShadowOffset": [ 2, 2 ],
+          "Size": {
+            "x": 0,
+            "y": 0
+          },
+          "TextColor": [ 1, 1, 1, 1 ]
+        } ],
+        "Class": "Group",
+        "IsVisible": true,
+        "Name": "food",
+        "Position": {
+          "x": 91.312,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 0,
+          "y": 0
+        }
+      }, {
+        "ActionTag": "-627732780",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "Children": [ {
+          "ActionTag": "-1201356051",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgProgressBg",
+          "Path": "assets/image/progress/progress1_bg1.png",
+          "Position": {
+            "x": -10.0001,
+            "y": 1.9238
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 176,
+            "y": 42
+          }
+        }, {
+          "ActionTag": "216219344",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgRes",
+          "Path": "assets/image/res/1.png",
+          "Position": {
+            "x": 0,
+            "y": -0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 50,
+            "y": 56
+          }
+        }, {
+          "ActionTag": "1344898030",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Text",
+          "FontSize": "20",
+          "IsVisible": true,
+          "LabelText": "0",
+          "Name": "txtValue",
+          "OutLineColor": [ 0, 0, 0, 1 ],
+          "OutlineEnabled": "True",
+          "Position": {
+            "x": 73.2261,
+            "y": 1.0028
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+          "ShadowOffset": [ 2, 2 ],
+          "Size": {
+            "x": 0,
+            "y": 0
+          },
+          "TextColor": [ 1, 1, 1, 1 ]
+        } ],
+        "Class": "Group",
+        "IsVisible": true,
+        "Name": "soldier",
+        "Position": {
+          "x": 315.1092,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 0,
+          "y": 0
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gResource",
+      "Position": {
+        "x": 213.7506,
+        "y": 174.572
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "1401719874",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gContent",
+      "Position": {
+        "x": 375,
+        "y": 764
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    } ]
+  },
+  "Version": 0.1
+}

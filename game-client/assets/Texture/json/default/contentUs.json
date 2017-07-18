@@ -1,0 +1,295 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "1290480069",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 107, 105, 107, 105 ],
+      "IsVisible": true,
+      "Name": "imgRouteBg",
+      "Path": "assets/image/image9/image9.png",
+      "Position": {
+        "x": 0.0004,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 615,
+        "y": 530
+      }
+    }, {
+      "ActionTag": "-1548689047",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 110, 88, 110, 88 ],
+      "IsVisible": true,
+      "Name": "imgRouteBgBox",
+      "Path": "assets/image/image9/image4.png",
+      "Position": {
+        "x": 0.0004,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 600,
+        "y": 516.2617
+      }
+    }, {
+      "ActionTag": "786157063",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 77, 96, 77, 96 ],
+      "IsVisible": true,
+      "Name": "imgContentBox",
+      "Path": "assets/image/image9/image8.png",
+      "Position": {
+        "x": 0.02,
+        "y": -197.1806
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 570,
+        "y": 334.7975
+      }
+    }, {
+      "ActionTag": "1908869108",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgTitleBg",
+      "Path": "assets/image/image9/image5.png",
+      "Position": {
+        "x": 0.0001,
+        "y": -259.8961
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 302,
+        "y": 70
+      }
+    }, {
+      "ActionTag": "396555261",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgTitle",
+      "Path": "assets/image/title/title5.png",
+      "Position": {
+        "x": 0.0002,
+        "y": -260.172
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 158,
+        "y": 35
+      }
+    }, {
+      "ActionTag": "128757791",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgClose",
+      "Path": "assets/image/button/btn7.png",
+      "Position": {
+        "x": 276.0945,
+        "y": -243.6255
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 74,
+        "y": 74
+      }
+    }, {
+      "ActionTag": "-638355449",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn6.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 190,
+          "y": 69
+        }
+      },
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btnBottom",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn6_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 190,
+          "y": 69
+        }
+      },
+      "Position": {
+        "x": 0.0001,
+        "y": 195.6533
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 190,
+        "y": 69
+      }
+    }, {
+      "ActionTag": "-550380225",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "26",
+      "IsVisible": true,
+      "LabelText": "确定",
+      "Name": "txtBottomTip",
+      "OutLineColor": [ 0.30196078431373, 0.15686274509804, 0.094117647058824, 1 ],
+      "OutlineEnabled": "True",
+      "Position": {
+        "x": 0.0002,
+        "y": 195.508
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 0.97647058823529, 0.84313725490196, 1 ]
+    }, {
+      "ActionTag": "2141542642",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0
+      },
+      "Class": "Text",
+      "FontSize": "30",
+      "IsVisible": true,
+      "LabelText": "温馨提醒",
+      "Name": "txtTipTitle",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -259.575,
+        "y": -169.651
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 0.98823529411765, 0.69803921568627, 1 ]
+    } ]
+  },
+  "Version": 0.1
+}

@@ -1,0 +1,533 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "1886632274",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gSky",
+      "Position": {
+        "x": 368.8713,
+        "y": 380
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "2086101306",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "BlendMod": {
+        "dstAlpha": "oneMinusSrcAlpha",
+        "dstColor": "oneMinusSrcAlpha",
+        "srcAlpha": "srcAlpha",
+        "srcColor": "srcAlpha"
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgBg",
+      "Path": "assets/image/bg/bg3.png",
+      "Position": {
+        "x": 374.85,
+        "y": 667
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 750,
+        "y": 1334
+      }
+    }, {
+      "ActionTag": "-161381545",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "BlendMod": {
+        "dstAlpha": "oneMinusSrcAlpha",
+        "dstColor": "oneMinusSrcAlpha",
+        "srcAlpha": "srcAlpha",
+        "srcColor": "srcAlpha"
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgTitle",
+      "Path": "assets/image/title/title1.png",
+      "Position": {
+        "x": 375,
+        "y": 173.42
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 563,
+        "y": 252
+      }
+    }, {
+      "ActionTag": "-632192432",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "22",
+      "IsVisible": true,
+      "LabelText": "版本号：V0.1",
+      "Name": "txtVersion",
+      "OutLineColor": [ 0.30588235294118, 0.33333333333333, 0.35686274509804, 1 ],
+      "OutlineEnabled": "True",
+      "Position": {
+        "x": 28.0078,
+        "y": 36.6169
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 1, 1, 1 ]
+    }, {
+      "ActionTag": "-56536333",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "BlendMod": {
+        "dstAlpha": "oneMinusSrcAlpha",
+        "dstColor": "oneMinusSrcAlpha",
+        "srcAlpha": "srcAlpha",
+        "srcColor": "srcAlpha"
+      },
+      "Children": [ {
+        "ActionTag": "-1997058180",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgRouteBg",
+        "Path": "assets/image/box/box6.png",
+        "Position": {
+          "x": -0.0007,
+          "y": -6.0025
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 584,
+          "y": 167
+        }
+      }, {
+        "ActionTag": "1031384263",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Children": [ {
+          "ActionTag": "-236266576",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "BlendMod": {
+            "dstAlpha": "oneMinusSrcAlpha",
+            "dstColor": "oneMinusSrcAlpha",
+            "srcAlpha": "srcAlpha",
+            "srcColor": "srcAlpha"
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgRouteBgBox",
+          "Path": "assets/image/image9/image36.png",
+          "Position": {
+            "x": 1.6555,
+            "y": -7.1272
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 485,
+            "y": 72
+          }
+        }, {
+          "ActionTag": "-432209276",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Text",
+          "FontSize": "30",
+          "IsVisible": true,
+          "LabelText": "无",
+          "Name": "txtAreaName",
+          "OutLineColor": [ 1, 0, 0, 1 ],
+          "Position": {
+            "x": 0.0001,
+            "y": -7.752
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+          "ShadowOffset": [ 2, 2 ],
+          "Size": {
+            "x": 0,
+            "y": 0
+          },
+          "TextColor": [ 1, 0.93333333333333, 0.8078431372549, 1 ]
+        }, {
+          "ActionTag": "-222903941",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "BlendMod": {
+            "dstAlpha": "oneMinusSrcAlpha",
+            "dstColor": "oneMinusSrcAlpha",
+            "srcAlpha": "srcAlpha",
+            "srcColor": "srcAlpha"
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgChangeArea",
+          "Path": "assets/image/tip/tip4.png",
+          "Position": {
+            "x": 189.3492,
+            "y": -9.5724
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 72,
+            "y": 46
+          }
+        } ],
+        "Class": "Group",
+        "IsVisible": true,
+        "Name": "gChangeArea",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 0,
+          "y": 0
+        }
+      }, {
+        "ActionTag": "-1385647485",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Button",
+        "Color": [ 1, 1, 1, 1 ],
+        "Default": {
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Path": "assets/image/button/btn4.png",
+          "Position": {
+            "x": 0,
+            "y": 0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 340,
+            "y": 132
+          }
+        },
+        "IsVisible": true,
+        "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+        "LabelSize": 11,
+        "LabelText": "",
+        "Name": "btnEnter",
+        "Over": {
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Path": "assets/image/button/btn4_over.png",
+          "Position": {
+            "x": 0,
+            "y": 0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 340,
+            "y": 132
+          }
+        },
+        "Position": {
+          "x": 0.0005,
+          "y": 171.9975
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 340,
+          "y": 132
+        }
+      }, {
+        "ActionTag": "-384473458",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgEnter",
+        "Path": "assets/image/btnName/5.png",
+        "Position": {
+          "x": 0.0005,
+          "y": 166.7547
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 187,
+          "y": 42
+        }
+      }, {
+        "ActionTag": "-1295428251",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgContantBg",
+        "Path": "assets/image/bg/bg4.png",
+        "Position": {
+          "x": 277.3524,
+          "y": 349.4755
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 189,
+          "y": 73
+        }
+      }, {
+        "ActionTag": "-116468643",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgContant",
+        "Path": "assets/image/btnName/7.png",
+        "Position": {
+          "x": 256.3481,
+          "y": 349.4755
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 130,
+          "y": 35
+        }
+      }, {
+        "ActionTag": "10887353",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgChangeActBg",
+        "Path": "assets/image/bg/bg4.png",
+        "Position": {
+          "x": -248.8646,
+          "y": 349.4755
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 189,
+          "y": 73
+        }
+      }, {
+        "ActionTag": "-176173564",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgChangeAct",
+        "Path": "assets/image/btnName/6.png",
+        "Position": {
+          "x": -267.535,
+          "y": 349.4755
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 130,
+          "y": 35
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gRoute",
+      "Position": {
+        "x": 375,
+        "y": 934
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    } ]
+  },
+  "Version": 0.1
+}

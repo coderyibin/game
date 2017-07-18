@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 758,758
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shenti
+  rotate: false
+  xy: 2, 145
+  size: 337, 611
+  orig: 337, 611
+  offset: 0, 0
+  index: -1
+images/youbi
+  rotate: true
+  xy: 506, 2
+  size: 152, 167
+  orig: 152, 167
+  offset: 0, 0
+  index: -1
+images/youshou
+  rotate: true
+  xy: 341, 108
+  size: 204, 163
+  orig: 204, 163
+  offset: 0, 0
+  index: -1
+images/zuobi
+  rotate: true
+  xy: 506, 156
+  size: 156, 164
+  orig: 156, 164
+  offset: 0, 0
+  index: -1
+images/zuoshou
+  rotate: false
+  xy: 341, 314
+  size: 296, 442
+  orig: 296, 442
+  offset: 0, 0
+  index: -1

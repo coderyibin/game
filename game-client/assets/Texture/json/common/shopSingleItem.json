@@ -1,0 +1,338 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "23176132",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "itemBg",
+      "Path": "assets/image/box/box9.png",
+      "Position": {
+        "x": 0,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 670,
+        "y": 136
+      }
+    }, {
+      "ActionTag": "1120077309",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "24",
+      "IsVisible": true,
+      "LabelText": "",
+      "Name": "txtName",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -198.9998,
+        "y": -33
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.67450980392157, 0.4156862745098, 0, 1 ]
+    }, {
+      "ActionTag": "755757172",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "20",
+      "IsVisible": true,
+      "LabelText": "",
+      "Name": "txtEffect",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -198.9998,
+        "y": 2
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.67450980392157, 0.4156862745098, 0, 1 ]
+    }, {
+      "ActionTag": "-676353566",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "20",
+      "IsVisible": true,
+      "LabelText": "价格：",
+      "Name": "txtPriceTip",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -198.9998,
+        "y": 35
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.67450980392157, 0.4156862745098, 0, 1 ]
+    }, {
+      "ActionTag": "-49676693",
+      "Alpha": 0.32941176470588,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgPriceBg",
+      "Path": "assets/image/bg/bg30.png",
+      "Position": {
+        "x": -67.9998,
+        "y": 37
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 0.8,
+        "y": 0.8
+      },
+      "Size": {
+        "x": 172,
+        "y": 49
+      }
+    }, {
+      "ActionTag": "1653383316",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgGold",
+      "Path": "assets/image/res/4.png",
+      "Position": {
+        "x": -111.16,
+        "y": 38.16
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 0.8,
+        "y": 0.8
+      },
+      "Size": {
+        "x": 54,
+        "y": 40
+      }
+    }, {
+      "ActionTag": "-281957863",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "22",
+      "IsVisible": true,
+      "LabelText": "",
+      "Name": "txtPrice",
+      "OutLineColor": [ 0.46274509803922, 0.25490196078431, 0.007843137254902, 1 ],
+      "OutlineEnabled": "True",
+      "Position": {
+        "x": -84.7252,
+        "y": 38.334
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 0.99607843137255, 0.94117647058824, 1 ]
+    }, {
+      "ActionTag": "1690041893",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn13.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 135.0396,
+          "y": 64
+        }
+      },
+      "Edge": [ 15, 15, 11, 11 ],
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btn",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn13_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 135.0396,
+          "y": 64
+        }
+      },
+      "Position": {
+        "x": 246.225,
+        "y": -12.2027
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 135.0396,
+        "y": 64
+      }
+    }, {
+      "ActionTag": "-1247440089",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "24",
+      "IsVisible": true,
+      "LabelText": "购买",
+      "Name": "btnName",
+      "OutLineColor": [ 0.48235294117647, 0.12156862745098, 0.074509803921569, 1 ],
+      "OutlineEnabled": "True",
+      "Position": {
+        "x": 249.2242,
+        "y": -12.2024
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 1, 1, 1 ]
+    }, {
+      "ActionTag": "-835200166",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "20",
+      "IsVisible": true,
+      "LabelText": "限购数：100",
+      "Name": "txtLimit",
+      "OutLineColor": [ 0.46274509803922, 0.25490196078431, 0.007843137254902, 1 ],
+      "OutlineEnabled": "True",
+      "Position": {
+        "x": 185.77,
+        "y": 37.9571
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 0.98823529411765, 0.69803921568627, 1 ]
+    } ]
+  },
+  "Version": 0.1
+}

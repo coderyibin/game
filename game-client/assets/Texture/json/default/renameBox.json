@@ -1,0 +1,369 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "1889816970",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 107, 105, 107, 105 ],
+      "IsVisible": true,
+      "Name": "imgBg",
+      "Path": "assets/image/image9/image9.png",
+      "Position": {
+        "x": 0.0001,
+        "y": -188.5
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 625.3619,
+        "y": 322
+      }
+    }, {
+      "ActionTag": "1537376730",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 110, 88, 110, 88 ],
+      "IsVisible": true,
+      "Name": "imgBgBox",
+      "Path": "assets/image/image9/image4.png",
+      "Position": {
+        "x": -0.0001,
+        "y": -181.3614
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 607.3618,
+        "y": 308.7236
+      }
+    }, {
+      "ActionTag": "434244959",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgTitleBg",
+      "Path": "assets/image/image9/image5.png",
+      "Position": {
+        "x": 0,
+        "y": -183.9176
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 302,
+        "y": 70
+      }
+    }, {
+      "ActionTag": "873672062",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgTitle",
+      "Path": "assets/image/title/title21.png",
+      "Position": {
+        "x": 0,
+        "y": -183.9196
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 181,
+        "y": 39
+      }
+    }, {
+      "ActionTag": "-1800877060",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgRenameIcon",
+      "Path": "assets/image/imgButton/img9.png",
+      "Position": {
+        "x": -232.2157,
+        "y": -73.7025
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 58,
+        "y": 60
+      }
+    }, {
+      "ActionTag": "1185610820",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 20, 20, 20, 20 ],
+      "IsVisible": true,
+      "Name": "imgInputBg",
+      "Path": "assets/image/image9/image8.png",
+      "Position": {
+        "x": 31.6482,
+        "y": -69.5279
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 460.9052,
+        "y": 70
+      }
+    }, {
+      "ActionTag": "833104301",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn6.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 190,
+          "y": 69
+        }
+      },
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btnCancel",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn6_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 190,
+          "y": 69
+        }
+      },
+      "Position": {
+        "x": -119.1157,
+        "y": 52.5485
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 190,
+        "y": 69
+      }
+    }, {
+      "ActionTag": "292831943",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "26",
+      "IsVisible": true,
+      "LabelText": "取消",
+      "Name": "txtCancelTip",
+      "OutLineColor": [ 0.30196078431373, 0.15686274509804, 0.094117647058824, 1 ],
+      "OutlineEnabled": "True",
+      "Position": {
+        "x": -119.1072,
+        "y": 52.5485
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 0.97647058823529, 0.84313725490196, 1 ]
+    }, {
+      "ActionTag": "-1167428213",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn6.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 190,
+          "y": 69
+        }
+      },
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btnOk",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn6_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 190,
+          "y": 69
+        }
+      },
+      "Position": {
+        "x": 117.1745,
+        "y": 52.5485
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 190,
+        "y": 69
+      }
+    }, {
+      "ActionTag": "-1338835020",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "26",
+      "IsVisible": true,
+      "LabelText": "确定",
+      "Name": "txtOkTip",
+      "OutLineColor": [ 0.30196078431373, 0.15686274509804, 0.094117647058824, 1 ],
+      "OutlineEnabled": "True",
+      "Position": {
+        "x": 117.1826,
+        "y": 52.5485
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 0.97647058823529, 0.84313725490196, 1 ]
+    } ]
+  },
+  "Version": 0.1
+}

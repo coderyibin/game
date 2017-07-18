@@ -1,0 +1,1040 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "-2141934500",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "BlendMod": {
+        "dstAlpha": "oneMinusSrcAlpha",
+        "dstColor": "oneMinusSrcAlpha",
+        "srcAlpha": "srcAlpha",
+        "srcColor": "srcAlpha"
+      },
+      "Children": [ {
+        "ActionTag": "191045037",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTopBg",
+        "Path": "assets/image/bg/bg5.png",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 768,
+          "y": 132
+        }
+      }, {
+        "ActionTag": "1558601796",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 18, 15, 18, 15 ],
+        "IsVisible": true,
+        "Name": "imgBg",
+        "Path": "assets/image/image9/image30.png",
+        "Position": {
+          "x": 0,
+          "y": 733.0029
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 750,
+          "y": 1200
+        }
+      }, {
+        "ActionTag": "-238685745",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 14, 12, 14, 12 ],
+        "IsVisible": true,
+        "Name": "imgTitleBg",
+        "Path": "assets/image/image9/image12.png",
+        "Position": {
+          "x": 0,
+          "y": 95
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 238.5937,
+          "y": 45
+        }
+      }, {
+        "ActionTag": "-430554468",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Children": [ {
+          "ActionTag": "-158153111",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0,
+            "y": 1
+          },
+          "BlendMod": {
+            "dstAlpha": "oneMinusSrcAlpha",
+            "dstColor": "oneMinusSrcAlpha",
+            "srcAlpha": "srcAlpha",
+            "srcColor": "srcAlpha"
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgFlower",
+          "Path": "assets/image/bg/bg6.png",
+          "Position": {
+            "x": -370.49355,
+            "y": 595.22905
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 750,
+            "y": 1334
+          }
+        } ],
+        "Class": "Container",
+        "IsVisible": true,
+        "Name": "gContainer",
+        "Position": {
+          "x": -370.466,
+          "y": 1327.9993
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 740.9871,
+          "y": 1190.4581
+        }
+      }, {
+        "ActionTag": "-1042100318",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTitle",
+        "Path": "assets/image/title/title19.png",
+        "Position": {
+          "x": -0.0002,
+          "y": 95.0001
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 81,
+          "y": 36
+        }
+      }, {
+        "ActionTag": "1561359726",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 18, 26, 18, 26 ],
+        "IsVisible": true,
+        "Name": "imgTopLightBg",
+        "Path": "assets/image/bg/bg29.png",
+        "Position": {
+          "x": -1.0006,
+          "y": 135.1694
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 748.1419,
+          "y": 56
+        }
+      }, {
+        "ActionTag": "1453084133",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgLRope",
+        "Path": "assets/image/other/rope1.png",
+        "Position": {
+          "x": -338.4431,
+          "y": 126.2769
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 23,
+          "y": 75
+        }
+      }, {
+        "ActionTag": "1178299338",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgRRope",
+        "Path": "assets/image/other/rope1.png",
+        "Position": {
+          "x": 334.8028,
+          "y": 126.584
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": -1,
+          "y": 1
+        },
+        "Size": {
+          "x": 23,
+          "y": 75
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gBack",
+      "Position": {
+        "x": 375,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-371309225",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn8.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 90,
+          "y": 98
+        }
+      },
+      "Edge": [ 15, 15, 11, 11 ],
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btnClose",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn8_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 90,
+          "y": 98
+        }
+      },
+      "Position": {
+        "x": 705,
+        "y": 111
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 90,
+        "y": 98
+      }
+    }, {
+      "ActionTag": "-1195100446",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "-245175888",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgBottomBg",
+        "Path": "assets/image/bg/bg31.png",
+        "Position": {
+          "x": 375,
+          "y": -72.9569
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 750,
+          "y": 145
+        }
+      }, {
+        "ActionTag": "888587883",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 20, 20, 20, 20 ],
+        "IsVisible": true,
+        "Name": "imgBg1",
+        "Path": "assets/image/image9/image31.png",
+        "Position": {
+          "x": 375,
+          "y": -1158
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 715,
+          "y": 148
+        }
+      }, {
+        "ActionTag": "184298142",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 148, 157, 148, 157 ],
+        "IsVisible": true,
+        "Name": "imgBg2",
+        "Path": "assets/image/image9/image31.png",
+        "Position": {
+          "x": 375.0051,
+          "y": -940.0007
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 715,
+          "y": 861.7589
+        }
+      }, {
+        "ActionTag": "576112155",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTip1",
+        "Path": "assets/image/tip/tip9.png",
+        "Position": {
+          "x": 105.868,
+          "y": -1126.2251
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 136,
+          "y": 48
+        }
+      }, {
+        "ActionTag": "-1513710673",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 14, 157, 14, 157 ],
+        "IsVisible": true,
+        "Name": "imgBg3",
+        "Path": "assets/image/progress/progress4_bg1.png",
+        "Position": {
+          "x": 375,
+          "y": -1106
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 690,
+          "y": 45
+        }
+      }, {
+        "ActionTag": "1126796737",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgGoldBg",
+        "Path": "assets/image/bg/bg30.png",
+        "Position": {
+          "x": 635.8692,
+          "y": -974.3937
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 172,
+          "y": 49
+        }
+      }, {
+        "ActionTag": "911274953",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgGold",
+        "Path": "assets/image/res/4.png",
+        "Position": {
+          "x": 577.1706,
+          "y": -974.3321
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 43.2399,
+          "y": 32.0295
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gSceneBg",
+      "Position": {
+        "x": 0,
+        "y": 1334
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "80823607",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "235961966",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "Children": [],
+        "Class": "Group",
+        "IsVisible": true,
+        "Name": "gTopContent",
+        "Position": {
+          "x": 20.8965,
+          "y": -1156.7516
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 0,
+          "y": 0
+        }
+      }, {
+        "ActionTag": "5705418",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "Children": [ {
+          "ActionTag": "-1920334889",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Button",
+          "Color": [ 1, 1, 1, 1 ],
+          "Default": {
+            "Alpha": 1,
+            "Anchor": {
+              "x": 0.5,
+              "y": 0.5
+            },
+            "Color": [ 1, 1, 1, 1 ],
+            "Edge": [ 15, 15, 11, 11 ],
+            "IsVisible": true,
+            "Path": "assets/image/button/btn11.png",
+            "Position": {
+              "x": 0,
+              "y": 0
+            },
+            "Rotation": 0,
+            "Scale": {
+              "x": 1,
+              "y": 1
+            },
+            "Scale9Enable": true,
+            "Size": {
+              "x": 172,
+              "y": 62
+            }
+          },
+          "Edge": [ 15, 15, 11, 11 ],
+          "IsVisible": true,
+          "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+          "LabelSize": 11,
+          "LabelText": "",
+          "Name": "btn",
+          "Over": {
+            "Alpha": 1,
+            "Anchor": {
+              "x": 0.5,
+              "y": 0.5
+            },
+            "Color": [ 1, 1, 1, 1 ],
+            "Edge": [ 15, 15, 11, 11 ],
+            "IsVisible": true,
+            "Path": "assets/image/button/btn11_over.png",
+            "Position": {
+              "x": 0,
+              "y": 0
+            },
+            "Rotation": 0,
+            "Scale": {
+              "x": 1,
+              "y": 1
+            },
+            "Scale9Enable": true,
+            "Size": {
+              "x": 172,
+              "y": 62
+            }
+          },
+          "Position": {
+            "x": -0.0001,
+            "y": 0.0001
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Scale9Enable": true,
+          "Size": {
+            "x": 172,
+            "y": 62
+          }
+        }, {
+          "ActionTag": "-421391668",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgDefault",
+          "Path": "assets/image/tip/tip10.png",
+          "Position": {
+            "x": 0.0001,
+            "y": 6.0001
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 48,
+            "y": 25
+          }
+        }, {
+          "ActionTag": "1112726555",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgOver",
+          "Path": "assets/image/tip/tip11.png",
+          "Position": {
+            "x": 0.0001,
+            "y": 4.9943
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 63,
+            "y": 36
+          }
+        } ],
+        "Class": "Group",
+        "IsVisible": true,
+        "Name": "gRecharge",
+        "Position": {
+          "x": 130,
+          "y": -968
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 0,
+          "y": 0
+        }
+      }, {
+        "ActionTag": "-195156095",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "Children": [ {
+          "ActionTag": "1575805529",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Button",
+          "Color": [ 1, 1, 1, 1 ],
+          "Default": {
+            "Alpha": 1,
+            "Anchor": {
+              "x": 0.5,
+              "y": 0.5
+            },
+            "Color": [ 1, 1, 1, 1 ],
+            "Edge": [ 15, 15, 11, 11 ],
+            "IsVisible": true,
+            "Path": "assets/image/button/btn11.png",
+            "Position": {
+              "x": 0,
+              "y": 0
+            },
+            "Rotation": 0,
+            "Scale": {
+              "x": 1,
+              "y": 1
+            },
+            "Scale9Enable": true,
+            "Size": {
+              "x": 172,
+              "y": 62
+            }
+          },
+          "Edge": [ 15, 15, 11, 11 ],
+          "IsVisible": true,
+          "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+          "LabelSize": 11,
+          "LabelText": "",
+          "Name": "btn",
+          "Over": {
+            "Alpha": 1,
+            "Anchor": {
+              "x": 0.5,
+              "y": 0.5
+            },
+            "Color": [ 1, 1, 1, 1 ],
+            "Edge": [ 15, 15, 11, 11 ],
+            "IsVisible": true,
+            "Path": "assets/image/button/btn11_over.png",
+            "Position": {
+              "x": 0,
+              "y": 0
+            },
+            "Rotation": 0,
+            "Scale": {
+              "x": 1,
+              "y": 1
+            },
+            "Scale9Enable": true,
+            "Size": {
+              "x": 172,
+              "y": 62
+            }
+          },
+          "Position": {
+            "x": 0,
+            "y": -0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Scale9Enable": true,
+          "Size": {
+            "x": 172,
+            "y": 62
+          }
+        }, {
+          "ActionTag": "-657750960",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgDefault",
+          "Path": "assets/image/tip/tip12.png",
+          "Position": {
+            "x": 0.0001,
+            "y": 6.0001
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 84,
+            "y": 25
+          }
+        }, {
+          "ActionTag": "-74610424",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgOver",
+          "Path": "assets/image/tip/tip13.png",
+          "Position": {
+            "x": 0,
+            "y": 4.9943
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 102,
+            "y": 36
+          }
+        } ],
+        "Class": "Group",
+        "IsVisible": true,
+        "Name": "gVip",
+        "Position": {
+          "x": 325,
+          "y": -968
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 0,
+          "y": 0
+        }
+      }, {
+        "ActionTag": "1769197315",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 7, 150, 7, 150 ],
+        "IsVisible": true,
+        "Name": "imgProgress",
+        "Path": "assets/image/progress/progress4.png",
+        "Position": {
+          "x": 374.9896,
+          "y": -1096.4589
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 672.4552,
+          "y": 24
+        }
+      }, {
+        "ActionTag": "1394266308",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Text",
+        "FontSize": "20",
+        "IsVisible": true,
+        "LabelText": "5643/10000",
+        "Name": "txtProgress",
+        "OutLineColor": [ 0.32549019607843, 0.2078431372549, 0, 1 ],
+        "OutlineEnabled": "True",
+        "Position": {
+          "x": 374.9896,
+          "y": -1084.4589
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+        "ShadowOffset": [ 2, 2 ],
+        "Size": {
+          "x": 0,
+          "y": 0
+        },
+        "TextColor": [ 1, 1, 1, 1 ]
+      }, {
+        "ActionTag": "2004711678",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 0.5
+        },
+        "Class": "Text",
+        "FontSize": "20",
+        "IsVisible": true,
+        "LabelText": "10000",
+        "Name": "txtGold",
+        "OutLineColor": [ 0.46274509803922, 0.25490196078431, 0.007843137254902, 1 ],
+        "OutlineEnabled": "True",
+        "Position": {
+          "x": 604.0658,
+          "y": -974.3322
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+        "ShadowOffset": [ 2, 2 ],
+        "Size": {
+          "x": 0,
+          "y": 0
+        },
+        "TextColor": [ 0.99607843137255, 0.91372549019608, 0.34901960784314, 1 ]
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gObj",
+      "Position": {
+        "x": 0,
+        "y": 1334
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-1655509180",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gContent",
+      "Position": {
+        "x": 18.4065,
+        "y": 393.9077
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    } ]
+  },
+  "Version": 0.1
+}

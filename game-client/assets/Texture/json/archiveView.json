@@ -1,0 +1,519 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "-2020515063",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "BlendMod": {
+        "dstAlpha": "oneMinusSrcAlpha",
+        "dstColor": "oneMinusSrcAlpha",
+        "srcAlpha": "srcAlpha",
+        "srcColor": "srcAlpha"
+      },
+      "Children": [ {
+        "ActionTag": "-2092655150",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTopBg",
+        "Path": "assets/image/bg/bg5.png",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 768,
+          "y": 132
+        }
+      }, {
+        "ActionTag": "-1570025204",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 0.59607843137255, 0.59607843137255, 0.59607843137255, 1 ],
+        "Edge": [ 18, 15, 18, 15 ],
+        "IsVisible": true,
+        "Name": "imgBg",
+        "Path": "assets/image/bg/bg77.png",
+        "Position": {
+          "x": -0.0002,
+          "y": 733.0039
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 750,
+          "y": 1200
+        }
+      }, {
+        "ActionTag": "-1457787002",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 14, 12, 14, 12 ],
+        "IsVisible": true,
+        "Name": "imgTitleBg",
+        "Path": "assets/image/image9/image12.png",
+        "Position": {
+          "x": 0,
+          "y": 95
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 238.5937,
+          "y": 45
+        }
+      }, {
+        "ActionTag": "-1643097059",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 5, 5, 5, 5 ],
+        "IsVisible": true,
+        "Name": "Image_1",
+        "Path": "assets/image/bg/bg77.png",
+        "Position": {
+          "x": -0.4058,
+          "y": 154.8569
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 752.7712,
+          "y": 43.2712
+        }
+      }, {
+        "ActionTag": "-1577006604",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 5, 5, 5, 5 ],
+        "IsVisible": true,
+        "Name": "Image_1_0",
+        "Path": "assets/image/bg/bg77.png",
+        "Position": {
+          "x": 0.5208,
+          "y": 1287.2983
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": -1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 752.7712,
+          "y": 90.0988
+        }
+      }, {
+        "ActionTag": "-1267510197",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Children": [ {
+          "ActionTag": "-987237055",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0,
+            "y": 1
+          },
+          "BlendMod": {
+            "dstAlpha": "oneMinusSrcAlpha",
+            "dstColor": "oneMinusSrcAlpha",
+            "srcAlpha": "srcAlpha",
+            "srcColor": "srcAlpha"
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgFlower",
+          "Path": "assets/image/bg/bg6.png",
+          "Position": {
+            "x": -370.49355,
+            "y": 595.22905
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 750,
+            "y": 1334
+          }
+        } ],
+        "Class": "Container",
+        "IsVisible": true,
+        "Name": "gContainer",
+        "Position": {
+          "x": 0.0349,
+          "y": 137.5475
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 740.9871,
+          "y": 1190.4581
+        }
+      }, {
+        "ActionTag": "1948176119",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTitle",
+        "Path": "assets/image/title/title36.png",
+        "Position": {
+          "x": -0.0002,
+          "y": 95.0001
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 81,
+          "y": 35
+        }
+      }, {
+        "ActionTag": "273069432",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgLRope",
+        "Path": "assets/image/other/rope.png",
+        "Position": {
+          "x": -338.4431,
+          "y": 126.2769
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 24,
+          "y": 76
+        }
+      }, {
+        "ActionTag": "1342114097",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgRRope",
+        "Path": "assets/image/other/rope.png",
+        "Position": {
+          "x": 334.8028,
+          "y": 126.584
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": -1,
+          "y": 1
+        },
+        "Size": {
+          "x": 24,
+          "y": 76
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gBack",
+      "Position": {
+        "x": 375,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-921181054",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "571356833",
+        "Alpha": 0.14901960784314,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgBg1",
+        "Path": "assets/image/bg/bg27.jpg",
+        "Position": {
+          "x": 375.3306,
+          "y": -891.5911
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 750,
+          "y": 532
+        }
+      }, {
+        "ActionTag": "-2037494714",
+        "Alpha": 0.14901960784314,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgBg2",
+        "Path": "assets/image/bg/bg27.jpg",
+        "Position": {
+          "x": 374.11,
+          "y": -357.2053
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 750,
+          "y": 532
+        }
+      }, {
+        "ActionTag": "-1204203153",
+        "Alpha": 0.16862745098039,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "Class": "Rect",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "rectLine1",
+        "Position": {
+          "x": 0.0001,
+          "y": -1155.6183
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 750,
+          "y": 3
+        }
+      }, {
+        "ActionTag": "895116884",
+        "Alpha": 0.16862745098039,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "Class": "Rect",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "rectLine2",
+        "Position": {
+          "x": 0,
+          "y": -88.9068
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 750,
+          "y": 3
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gOtherBg",
+      "Position": {
+        "x": 0,
+        "y": 1334
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-1360511784",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn8.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 90,
+          "y": 98
+        }
+      },
+      "Edge": [ 15, 15, 11, 11 ],
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btnClose",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn8_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 90,
+          "y": 98
+        }
+      },
+      "Position": {
+        "x": 705,
+        "y": 111
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 90,
+        "y": 98
+      }
+    } ]
+  },
+  "Version": 0.1
+}

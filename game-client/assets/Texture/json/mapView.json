@@ -1,0 +1,300 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "-1298542014",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gImgBg",
+      "Position": {
+        "x": 0.0001,
+        "y": 244.3751
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-1763575335",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gCenter",
+      "Position": {
+        "x": 0,
+        "y": 1334
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-1075033560",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Class": "ProjectGroup",
+      "FileData": "assets/json/common/bottomBox.json",
+      "IsVisible": true,
+      "Name": "gBottom",
+      "Position": {
+        "x": 375,
+        "y": 1334
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-986554972",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Class": "ProjectGroup",
+      "FileData": "assets/json/common/topBox.json",
+      "IsVisible": true,
+      "Name": "gTop",
+      "Position": {
+        "x": 375,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-1750088965",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "1484928294",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "Children": [ {
+          "ActionTag": "-1335798216",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgBg",
+          "Path": "assets/image/bg/bg19.png",
+          "Position": {
+            "x": 0,
+            "y": -0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 102,
+            "y": 102
+          }
+        }, {
+          "ActionTag": "823068085",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.4842,
+            "y": 0.3499
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgBtn",
+          "Path": "assets/image/imgButton/img8.png",
+          "Position": {
+            "x": -1.088,
+            "y": 3.5668
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 69,
+            "y": 100
+          }
+        } ],
+        "Class": "Group",
+        "IsVisible": true,
+        "Name": "gSetting",
+        "Position": {
+          "x": 71.6537,
+          "y": 79.131
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 0,
+          "y": 0
+        }
+      }, {
+        "ActionTag": "-942101200",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 1
+        },
+        "Children": [ {
+          "ActionTag": "-2015523931",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgBg",
+          "Path": "assets/image/bg/bg19.png",
+          "Position": {
+            "x": 0,
+            "y": -0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 102,
+            "y": 102
+          }
+        }, {
+          "ActionTag": "-2055599292",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.4842,
+            "y": 0.3499
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgBtn",
+          "Path": "assets/image/imgButton/img12.png",
+          "Position": {
+            "x": -1.0875,
+            "y": -11.4334
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 88,
+            "y": 115
+          }
+        }, {
+          "ActionTag": "1127621834",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgRed",
+          "Path": "assets/image/other/red.png",
+          "Position": {
+            "x": 34.5619,
+            "y": -30.8586
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 24,
+            "y": 24
+          }
+        } ],
+        "Class": "Group",
+        "IsVisible": true,
+        "Name": "gMail",
+        "Position": {
+          "x": 71.6537,
+          "y": -39.951
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 0,
+          "y": 0
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gLittleBtns",
+      "Position": {
+        "x": 0,
+        "y": 984
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    } ]
+  },
+  "Version": 0.1
+}

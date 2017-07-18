@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 301,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian/hh1
+  rotate: false
+  xy: 147, 2
+  size: 121, 108
+  orig: 131, 119
+  offset: 4, 1
+  index: -1
+jian/hh2
+  rotate: false
+  xy: 147, 112
+  size: 127, 125
+  orig: 133, 130
+  offset: 4, 0
+  index: -1
+jian/hh3
+  rotate: true
+  xy: 2, 4
+  size: 132, 143
+  orig: 138, 144
+  offset: 2, 1
+  index: -1
+jian/hh4
+  rotate: false
+  xy: 2, 138
+  size: 126, 161
+  orig: 135, 164
+  offset: 5, 1
+  index: -1
+jian/huopen
+  rotate: false
+  xy: 147, 239
+  size: 131, 60
+  orig: 131, 60
+  offset: 0, 0
+  index: -1

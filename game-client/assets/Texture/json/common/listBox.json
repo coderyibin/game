@@ -1,0 +1,314 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "413106328",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "BlendMod": {
+        "dstAlpha": "oneMinusSrcAlpha",
+        "dstColor": "oneMinusSrcAlpha",
+        "srcAlpha": "srcAlpha",
+        "srcColor": "srcAlpha"
+      },
+      "Children": [ {
+        "ActionTag": "2057745735",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 18, 15, 18, 15 ],
+        "IsVisible": true,
+        "Name": "imgBg",
+        "Path": "assets/image/image9/image13.png",
+        "Position": {
+          "x": -0.0006,
+          "y": -409.9956
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 636.4843,
+          "y": 925.8613
+        }
+      }, {
+        "ActionTag": "-67375407",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Children": [ {
+          "ActionTag": "-1686103582",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0,
+            "y": 1
+          },
+          "BlendMod": {
+            "dstAlpha": "oneMinusSrcAlpha",
+            "dstColor": "oneMinusSrcAlpha",
+            "srcAlpha": "srcAlpha",
+            "srcColor": "srcAlpha"
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgFlower",
+          "Path": "assets/image/bg/bg6.png",
+          "Position": {
+            "x": -333.5875,
+            "y": 1221.98255
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 750,
+            "y": 1334
+          }
+        } ],
+        "Class": "Container",
+        "IsVisible": true,
+        "Name": "gContainer",
+        "Position": {
+          "x": -0.2606,
+          "y": -404.3738
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 626.4838,
+          "y": 913.1871
+        }
+      }, {
+        "ActionTag": "-918815559",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 11, 18, 11, 18 ],
+        "IsVisible": true,
+        "Name": "imgBottomBg",
+        "Path": "assets/image/image9/image14.png",
+        "Position": {
+          "x": -0.0679,
+          "y": -312.2343
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 617.5779,
+          "y": 810.0158
+        }
+      }, {
+        "ActionTag": "-1097710351",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 138, 99, 138, 99 ],
+        "IsVisible": true,
+        "Name": "imgBgFlower",
+        "Path": "assets/image/image9/image22.png",
+        "Position": {
+          "x": 0.5369,
+          "y": -402.2604
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 623.8391,
+          "y": 907.3086
+        }
+      }, {
+        "ActionTag": "-56000877",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 14, 12, 14, 12 ],
+        "IsVisible": true,
+        "Name": "imgTitlebg",
+        "Path": "assets/image/image9/image5.png",
+        "Position": {
+          "x": 0,
+          "y": -410.0001
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 302,
+          "y": 70
+        }
+      }, {
+        "ActionTag": "-1250234480",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTitle",
+        "Path": "assets/image/title/title12.png",
+        "Position": {
+          "x": 0,
+          "y": -410
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 158,
+          "y": 36
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gBack",
+      "Position": {
+        "x": -1.4253,
+        "y": 439.6866
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "1589611642",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgClose",
+      "Path": "assets/image/button/btn15.png",
+      "Position": {
+        "x": 284.747,
+        "y": 48.0788
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 90,
+        "y": 90
+      }
+    }, {
+      "ActionTag": "-1139834718",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "24",
+      "IsVisible": true,
+      "LabelText": "",
+      "Name": "txtPropName",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -260.09,
+        "y": 101.44
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 1, 1, 1 ]
+    }, {
+      "ActionTag": "-1242108862",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 1,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "24",
+      "IsVisible": true,
+      "LabelText": "",
+      "Name": "txtPropEffect",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": 268.84,
+        "y": 101.4389
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 1, 1, 1 ]
+    } ]
+  },
+  "Version": 0.1
+}

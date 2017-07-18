@@ -1,0 +1,133 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "-1919114050",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "140207459",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgBottomBg",
+        "Path": "assets/image/bg/bg64.png",
+        "Position": {
+          "x": 0,
+          "y": 389.3962
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 750,
+          "y": 243
+        }
+      }, {
+        "ActionTag": "-857258179",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgBg",
+        "Path": "assets/image/bg/bg63.jpg",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 706,
+          "y": 600
+        }
+      }, {
+        "ActionTag": "318741754",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgBlackBox",
+        "Path": "assets/image/image9/image25.png",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 714,
+          "y": 606.4447
+        }
+      }, {
+        "ActionTag": "1985243248",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 88, 105, 88, 105 ],
+        "IsVisible": true,
+        "Name": "imgBgFlower",
+        "Path": "assets/image/image9/image19.png",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 720,
+          "y": 617
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gBack",
+      "Position": {
+        "x": 0,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    } ]
+  },
+  "Version": 0.1
+}

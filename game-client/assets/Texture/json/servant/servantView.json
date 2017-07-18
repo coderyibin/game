@@ -1,0 +1,264 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "-334266313",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "-804582376",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTopBg",
+        "Path": "assets/image/bg/bg5.png",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 768,
+          "y": 132
+        }
+      }, {
+        "ActionTag": "1118556150",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTop",
+        "Path": "assets/image/bg/bg129.png",
+        "Position": {
+          "x": 0,
+          "y": 132.3989
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 750,
+          "y": 62
+        }
+      }, {
+        "ActionTag": "-777277519",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgButtom",
+        "Path": "assets/image/bg/bg130.png",
+        "Position": {
+          "x": 0,
+          "y": 1251.8184
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 750,
+          "y": 82
+        }
+      }, {
+        "ActionTag": "580515469",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 14, 12, 14, 12 ],
+        "IsVisible": true,
+        "Name": "imgTitleBg",
+        "Path": "assets/image/image9/image12.png",
+        "Position": {
+          "x": 0,
+          "y": 95
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 238.5937,
+          "y": 45
+        }
+      }, {
+        "ActionTag": "306601484",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTitle",
+        "Path": "assets/image/title/title9.png",
+        "Position": {
+          "x": -0.0002,
+          "y": 95.0001
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 158,
+          "y": 38
+        }
+      }, {
+        "ActionTag": "1607084314",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 18, 15, 18, 15 ],
+        "IsVisible": true,
+        "Name": "imgBg",
+        "Path": "assets/image/image9/image44.png",
+        "Position": {
+          "x": -0.0025,
+          "y": 192.8069
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 0.9971,
+          "y": 1.4299
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 750,
+          "y": 742.0502
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gBack",
+      "Position": {
+        "x": 375,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-852167392",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn8.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 90,
+          "y": 98
+        }
+      },
+      "Edge": [ 15, 15, 11, 11 ],
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btnClose",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn8_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 90,
+          "y": 98
+        }
+      },
+      "Position": {
+        "x": 705,
+        "y": 111
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 90,
+        "y": 98
+      }
+    } ]
+  },
+  "Version": 0.1
+}

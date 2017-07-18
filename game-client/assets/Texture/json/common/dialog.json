@@ -1,0 +1,288 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "-753947824",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 20, 20, 20, 20 ],
+      "IsVisible": true,
+      "Name": "imgBg",
+      "Path": "assets/image/image9/image37.png",
+      "Position": {
+        "x": 0.0002,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 673,
+        "y": 247
+      }
+    }, {
+      "ActionTag": "-2136433701",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "999338070",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Button",
+        "Color": [ 1, 1, 1, 1 ],
+        "Default": {
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Path": "assets/image/button/btn6.png",
+          "Position": {
+            "x": 0,
+            "y": 0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 190,
+            "y": 69
+          }
+        },
+        "IsVisible": true,
+        "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+        "LabelSize": 11,
+        "LabelText": "",
+        "Name": "btn",
+        "Over": {
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Path": "assets/image/button/btn6_over.png",
+          "Position": {
+            "x": 0,
+            "y": 0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 190,
+            "y": 69
+          }
+        },
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 190,
+          "y": 69
+        }
+      }, {
+        "ActionTag": "-230213510",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Text",
+        "FontSize": "26",
+        "IsVisible": true,
+        "LabelText": "确定",
+        "Name": "btnName",
+        "OutLineColor": [ 0.30196078431373, 0.15686274509804, 0.094117647058824, 1 ],
+        "OutlineEnabled": "True",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+        "ShadowOffset": [ 2, 2 ],
+        "Size": {
+          "x": 0,
+          "y": 0
+        },
+        "TextColor": [ 1, 0.97647058823529, 0.84313725490196, 1 ]
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gOk",
+      "Position": {
+        "x": -147.567,
+        "y": 176.3122
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "217198585",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "2052325647",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Button",
+        "Color": [ 1, 1, 1, 1 ],
+        "Default": {
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Path": "assets/image/button/btn6.png",
+          "Position": {
+            "x": 0,
+            "y": 0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 190,
+            "y": 69
+          }
+        },
+        "IsVisible": true,
+        "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+        "LabelSize": 11,
+        "LabelText": "",
+        "Name": "btn",
+        "Over": {
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Path": "assets/image/button/btn6_over.png",
+          "Position": {
+            "x": 0,
+            "y": 0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 190,
+            "y": 69
+          }
+        },
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 190,
+          "y": 69
+        }
+      }, {
+        "ActionTag": "-747497498",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Text",
+        "FontSize": "26",
+        "IsVisible": true,
+        "LabelText": "取消",
+        "Name": "btnName",
+        "OutLineColor": [ 0.30196078431373, 0.15686274509804, 0.094117647058824, 1 ],
+        "OutlineEnabled": "True",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+        "ShadowOffset": [ 2, 2 ],
+        "Size": {
+          "x": 0,
+          "y": 0
+        },
+        "TextColor": [ 1, 0.97647058823529, 0.84313725490196, 1 ]
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gCancel",
+      "Position": {
+        "x": 146.327,
+        "y": 176.3122
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    } ]
+  },
+  "Version": 0.1
+}

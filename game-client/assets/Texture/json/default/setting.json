@@ -1,0 +1,1054 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "2080396025",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 107, 105, 107, 105 ],
+      "IsVisible": true,
+      "Name": "imgBg",
+      "Path": "assets/image/image9/image9.png",
+      "Position": {
+        "x": 0,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 620,
+        "y": 877
+      }
+    }, {
+      "ActionTag": "1203783088",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 110, 88, 110, 88 ],
+      "IsVisible": true,
+      "Name": "imgBgBox",
+      "Path": "assets/image/image9/image4.png",
+      "Position": {
+        "x": -0.001,
+        "y": 1.0001
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1.0593,
+        "y": 1.0448
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 584.8994,
+        "y": 839.1865
+      }
+    }, {
+      "ActionTag": "-1448394933",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "BlendMod": {
+        "dstAlpha": "oneMinusSrcAlpha",
+        "dstColor": "oneMinusSrcAlpha",
+        "srcAlpha": "srcAlpha",
+        "srcColor": "srcAlpha"
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgClose",
+      "Path": "assets/image/button/btn7.png",
+      "Position": {
+        "x": 274.3066,
+        "y": -407.1776
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 74,
+        "y": 74
+      }
+    }, {
+      "ActionTag": "-1950915923",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 23, 53, 23, 53 ],
+      "IsVisible": true,
+      "Name": "imgCenterBox",
+      "Path": "assets/image/image9/image24.png",
+      "Position": {
+        "x": 0.9992,
+        "y": -133.7441
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 557.51,
+        "y": 347
+      }
+    }, {
+      "ActionTag": "-478717457",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgTitleBg",
+      "Path": "assets/image/image9/image5.png",
+      "Position": {
+        "x": 2.2887,
+        "y": -424.5977
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 302,
+        "y": 70
+      }
+    }, {
+      "ActionTag": "1693503943",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "-1877698207",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": false,
+        "Name": "imgTitleReg",
+        "Path": "assets/image/title/title3.png",
+        "Position": {
+          "x": 0,
+          "y": -0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 158,
+          "y": 36
+        }
+      }, {
+        "ActionTag": "-1483408575",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTitleLogin",
+        "Path": "assets/image/title/title15.png",
+        "Position": {
+          "x": 2.2893,
+          "y": -166.599
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 92,
+          "y": 38
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gTopTitle",
+      "Position": {
+        "x": 0,
+        "y": -257
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "-1871972949",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn36.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 151,
+          "y": 64
+        }
+      },
+      "Edge": [ 15, 15, 11, 11 ],
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btnBottom",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn36_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 151,
+          "y": 64
+        }
+      },
+      "Position": {
+        "x": 169.6604,
+        "y": -12.3723
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 151,
+        "y": 64
+      }
+    }, {
+      "ActionTag": "2120878994",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "26",
+      "IsVisible": true,
+      "LabelText": "切换区服",
+      "Name": "txtBottomTip",
+      "OutLineColor": [ 0.30196078431373, 0.15686274509804, 0.094117647058824, 1 ],
+      "OutlineEnabled": "True",
+      "Position": {
+        "x": 169.6693,
+        "y": -13.1215
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 0.97647058823529, 0.84313725490196, 1 ]
+    }, {
+      "ActionTag": "-687475708",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "30",
+      "IsVisible": true,
+      "LabelText": "账号信息",
+      "Name": "txtAccountInfoTip",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -260.8041,
+        "y": -331.6733
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.99607843137255, 0.91372549019608, 0.34901960784314, 1 ]
+    }, {
+      "ActionTag": "-1289138967",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "Edge": [ 23, 53, 23, 53 ],
+      "IsVisible": true,
+      "Name": "imgCenterBox1",
+      "Path": "assets/image/image9/image24.png",
+      "Position": {
+        "x": 0.9992,
+        "y": 106.4651
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 557,
+        "y": 250.9997
+      }
+    }, {
+      "ActionTag": "-1642052001",
+      "Alpha": 0.3843137254902,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Rect",
+      "Color": [ 0.4, 0.090196078431373, 0.090196078431373, 1 ],
+      "IsVisible": true,
+      "Name": "rectLine1",
+      "Position": {
+        "x": 0,
+        "y": -225.069
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 0.9766,
+        "y": 1
+      },
+      "Size": {
+        "x": 545.1115,
+        "y": 3
+      }
+    }, {
+      "ActionTag": "-993405475",
+      "Alpha": 0.3843137254902,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Rect",
+      "Color": [ 0.4, 0.090196078431373, 0.090196078431373, 1 ],
+      "IsVisible": true,
+      "Name": "rectLine2",
+      "Position": {
+        "x": 0,
+        "y": -144.1971
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 0.9766,
+        "y": 1
+      },
+      "Size": {
+        "x": 545.1115,
+        "y": 2
+      }
+    }, {
+      "ActionTag": "-955059796",
+      "Alpha": 0.3843137254902,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Rect",
+      "Color": [ 0.4, 0.090196078431373, 0.090196078431373, 1 ],
+      "IsVisible": true,
+      "Name": "rectLine3",
+      "Position": {
+        "x": 0,
+        "y": -63.3251
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 0.9766,
+        "y": 1
+      },
+      "Size": {
+        "x": 545.1115,
+        "y": 2
+      }
+    }, {
+      "ActionTag": "-1135527337",
+      "Alpha": 0.3843137254902,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Rect",
+      "Color": [ 0.4, 0.090196078431373, 0.090196078431373, 1 ],
+      "IsVisible": true,
+      "Name": "rectLine4",
+      "Position": {
+        "x": 0,
+        "y": 184.7349
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 0.9766,
+        "y": 1
+      },
+      "Size": {
+        "x": 545.1115,
+        "y": 2
+      }
+    }, {
+      "ActionTag": "636165831",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "28",
+      "IsVisible": true,
+      "LabelText": "",
+      "Name": "txtNickName",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -232.4896,
+        "y": -265.1641
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.88627450980392, 0.85490196078431, 0.79607843137255, 1 ]
+    }, {
+      "ActionTag": "-2060723388",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": false,
+      "Name": "imgBtnChangeNickName",
+      "Path": "assets/image/imgButton/img9.png",
+      "Position": {
+        "x": 228.5738,
+        "y": -265.1601
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 58,
+        "y": 60
+      }
+    }, {
+      "ActionTag": "1497128203",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "28",
+      "IsVisible": true,
+      "LabelText": "",
+      "Name": "txtUserID",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -232.4897,
+        "y": -183.5526
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.88627450980392, 0.85490196078431, 0.79607843137255, 1 ]
+    }, {
+      "ActionTag": "-1082490757",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "28",
+      "IsVisible": true,
+      "LabelText": "",
+      "Name": "txtAreaName",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -232.4896,
+        "y": -101.9411
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.88627450980392, 0.85490196078431, 0.79607843137255, 1 ]
+    }, {
+      "ActionTag": "-1129677207",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "30",
+      "IsVisible": true,
+      "LabelText": "账号信息",
+      "Name": "txtSettingTip",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -260.8041,
+        "y": 82.0364
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.99607843137255, 0.91372549019608, 0.34901960784314, 1 ]
+    }, {
+      "ActionTag": "1852194028",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": false,
+      "Name": "imgSounds",
+      "Path": "assets/image/other/sounds.png",
+      "Position": {
+        "x": -203.9896,
+        "y": 144.6194
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 57,
+        "y": 52
+      }
+    }, {
+      "ActionTag": "-312560264",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "28",
+      "IsVisible": true,
+      "LabelText": "游戏声音",
+      "Name": "txtSoundsTip",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -232.4896,
+        "y": 144.6194
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.88627450980392, 0.85490196078431, 0.79607843137255, 1 ]
+    }, {
+      "ActionTag": "160379279",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "20",
+      "IsVisible": true,
+      "LabelText": "版本号：V0.1",
+      "Name": "txtVersion",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -265.3304,
+        "y": 387.4654
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.88627450980392, 0.85490196078431, 0.79607843137255, 1 ]
+    }, {
+      "ActionTag": "961890585",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn36.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 151,
+          "y": 64
+        }
+      },
+      "Edge": [ 15, 15, 11, 11 ],
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btnBottomServer",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn36_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 151,
+          "y": 64
+        }
+      },
+      "Position": {
+        "x": -166.8948,
+        "y": -12.3723
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 151,
+        "y": 64
+      }
+    }, {
+      "ActionTag": "59570685",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "26",
+      "IsVisible": true,
+      "LabelText": "联系客服",
+      "Name": "txtBottomTipServer",
+      "OutLineColor": [ 0.30196078431373, 0.15686274509804, 0.094117647058824, 1 ],
+      "OutlineEnabled": "True",
+      "Position": {
+        "x": -167.2457,
+        "y": -13.1215
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 0.97647058823529, 0.84313725490196, 1 ]
+    }, {
+      "ActionTag": "-708370579",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "Children": [ {
+        "ActionTag": "-44369950",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Button",
+        "Color": [ 1, 1, 1, 1 ],
+        "Default": {
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Color": [ 1, 1, 1, 1 ],
+          "Edge": [ 15, 15, 11, 11 ],
+          "IsVisible": true,
+          "Path": "assets/image/button/btn36.png",
+          "Position": {
+            "x": 0,
+            "y": 0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Scale9Enable": true,
+          "Size": {
+            "x": 151,
+            "y": 64
+          }
+        },
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+        "LabelSize": 11,
+        "LabelText": "",
+        "Name": "btn",
+        "Over": {
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "Color": [ 1, 1, 1, 1 ],
+          "Edge": [ 15, 15, 11, 11 ],
+          "IsVisible": true,
+          "Path": "assets/image/button/btn36_over.png",
+          "Position": {
+            "x": 0,
+            "y": 0
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Scale9Enable": true,
+          "Size": {
+            "x": 151,
+            "y": 64
+          }
+        },
+        "Position": {
+          "x": 181.7923,
+          "y": 394.0806
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 151,
+          "y": 64
+        }
+      }, {
+        "ActionTag": "-470418613",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Text",
+        "FontSize": "26",
+        "IsVisible": true,
+        "LabelText": "上传存档",
+        "Name": "tip",
+        "OutLineColor": [ 0.30196078431373, 0.15686274509804, 0.094117647058824, 1 ],
+        "OutlineEnabled": "True",
+        "Position": {
+          "x": 181.441,
+          "y": 394.3318
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+        "ShadowOffset": [ 2, 2 ],
+        "Size": {
+          "x": 0,
+          "y": 0
+        },
+        "TextColor": [ 1, 0.97647058823529, 0.84313725490196, 1 ]
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gBtn",
+      "Position": {
+        "x": 0,
+        "y": 0
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "768087425",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Button",
+      "Color": [ 1, 1, 1, 1 ],
+      "Default": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn36.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 151,
+          "y": 64
+        }
+      },
+      "Edge": [ 15, 15, 11, 11 ],
+      "IsVisible": true,
+      "LabelColor": [ 0.25490196078431, 0.25490196078431, 0.27450980392157, 1 ],
+      "LabelSize": 11,
+      "LabelText": "",
+      "Name": "btnUserCenter",
+      "Over": {
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 15, 15, 11, 11 ],
+        "IsVisible": true,
+        "Path": "assets/image/button/btn36_over.png",
+        "Position": {
+          "x": 0,
+          "y": 0
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 151,
+          "y": 64
+        }
+      },
+      "Position": {
+        "x": 1.0313,
+        "y": -12.3723
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Scale9Enable": true,
+      "Size": {
+        "x": 151,
+        "y": 64
+      }
+    }, {
+      "ActionTag": "-658430262",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "26",
+      "IsVisible": true,
+      "LabelText": "用户中心",
+      "Name": "btnUserCenterTip",
+      "OutLineColor": [ 0.30196078431373, 0.15686274509804, 0.094117647058824, 1 ],
+      "OutlineEnabled": "True",
+      "Position": {
+        "x": 2.6804,
+        "y": -13.1215
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 0.97647058823529, 0.84313725490196, 1 ]
+    } ]
+  },
+  "Version": 0.1
+}

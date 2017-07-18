@@ -1,0 +1,428 @@
+{
+  "Animation": [],
+  "Root": {
+    "Children": [ {
+      "ActionTag": "273969850",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 1,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "24",
+      "IsVisible": true,
+      "LabelText": "道具效果：XXXX",
+      "Name": "txtPropEffect",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": 288.8429,
+        "y": 97.4389
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 1, 1, 1 ]
+    }, {
+      "ActionTag": "-1662071008",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "24",
+      "IsVisible": true,
+      "LabelText": "道具名称X数量",
+      "Name": "txtPropName",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -300.0945,
+        "y": 99.6622
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 1, 1, 1, 1 ]
+    }, {
+      "ActionTag": "206000904",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 1
+      },
+      "BlendMod": {
+        "dstAlpha": "oneMinusSrcAlpha",
+        "dstColor": "oneMinusSrcAlpha",
+        "srcAlpha": "srcAlpha",
+        "srcColor": "srcAlpha"
+      },
+      "Children": [ {
+        "ActionTag": "1949062109",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 18, 15, 18, 15 ],
+        "IsVisible": true,
+        "Name": "imgBg",
+        "Path": "assets/image/image9/image13.png",
+        "Position": {
+          "x": -0.0008,
+          "y": -409.989
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 636.4843,
+          "y": 421.4039
+        }
+      }, {
+        "ActionTag": "1850548575",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "BlendMod": {
+          "dstAlpha": "oneMinusSrcAlpha",
+          "dstColor": "oneMinusSrcAlpha",
+          "srcAlpha": "srcAlpha",
+          "srcColor": "srcAlpha"
+        },
+        "Children": [ {
+          "ActionTag": "1235996537",
+          "Alpha": 1,
+          "Anchor": {
+            "x": 0,
+            "y": 1
+          },
+          "BlendMod": {
+            "dstAlpha": "oneMinusSrcAlpha",
+            "dstColor": "oneMinusSrcAlpha",
+            "srcAlpha": "srcAlpha",
+            "srcColor": "srcAlpha"
+          },
+          "Class": "Image",
+          "Color": [ 1, 1, 1, 1 ],
+          "IsVisible": true,
+          "Name": "imgFlower",
+          "Path": "assets/image/bg/bg6.png",
+          "Position": {
+            "x": -333.5875,
+            "y": 972.05075
+          },
+          "Rotation": 0,
+          "Scale": {
+            "x": 1,
+            "y": 1
+          },
+          "Size": {
+            "x": 750,
+            "y": 1334
+          }
+        } ],
+        "Class": "Container",
+        "IsVisible": true,
+        "Name": "gContainer",
+        "Position": {
+          "x": -0.2607,
+          "y": -404.3702
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 626.4838,
+          "y": 413.3235
+        }
+      }, {
+        "ActionTag": "657849601",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 138, 99, 138, 99 ],
+        "IsVisible": true,
+        "Name": "imgBgFlower",
+        "Path": "assets/image/image9/image22.png",
+        "Position": {
+          "x": 0.5369,
+          "y": -402.2609
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 623.8391,
+          "y": 406.2755
+        }
+      }, {
+        "ActionTag": "1255037568",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 14, 12, 14, 12 ],
+        "IsVisible": true,
+        "Name": "imgTitlebg",
+        "Path": "assets/image/image9/image5.png",
+        "Position": {
+          "x": 0,
+          "y": -410.0001
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 302,
+          "y": 70
+        }
+      }, {
+        "ActionTag": "-285611785",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "IsVisible": true,
+        "Name": "imgTitle",
+        "Path": "assets/image/title/title22.png",
+        "Position": {
+          "x": -0.0005,
+          "y": -410.0001
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Size": {
+          "x": 79,
+          "y": 35
+        }
+      }, {
+        "ActionTag": "275553599",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 11, 18, 11, 18 ],
+        "IsVisible": true,
+        "Name": "imgBottomBg",
+        "Path": "assets/image/image9/image14.png",
+        "Position": {
+          "x": -155.4449,
+          "y": -354.187
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 444.8414,
+          "y": 115
+        }
+      }, {
+        "ActionTag": "1211369877",
+        "Alpha": 1,
+        "Anchor": {
+          "x": 0,
+          "y": 0
+        },
+        "Class": "Image",
+        "Color": [ 1, 1, 1, 1 ],
+        "Edge": [ 11, 18, 11, 18 ],
+        "IsVisible": true,
+        "Name": "imgBottomBg_0",
+        "Path": "assets/image/image9/image14.png",
+        "Position": {
+          "x": -273.1674,
+          "y": -222.0152
+        },
+        "Rotation": 0,
+        "Scale": {
+          "x": 1,
+          "y": 1
+        },
+        "Scale9Enable": true,
+        "Size": {
+          "x": 563.0595,
+          "y": 210.0654
+        }
+      } ],
+      "Class": "Group",
+      "IsVisible": true,
+      "Name": "gBack",
+      "Position": {
+        "x": -1.4253,
+        "y": 439.6866
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 0,
+        "y": 0
+      }
+    }, {
+      "ActionTag": "478722116",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Image",
+      "Color": [ 1, 1, 1, 1 ],
+      "IsVisible": true,
+      "Name": "imgClose",
+      "Path": "assets/image/button/btn15.png",
+      "Position": {
+        "x": 284.747,
+        "y": 48.0788
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "Size": {
+        "x": 90,
+        "y": 90
+      }
+    }, {
+      "ActionTag": "-506173752",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "24",
+      "IsVisible": true,
+      "LabelText": "",
+      "Name": "txtPropName",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": 69.391,
+        "y": 142.9365
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.73333333333333, 0.50196078431373, 0.074509803921569, 1 ]
+    }, {
+      "ActionTag": "561375517",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0.5
+      },
+      "Class": "Text",
+      "FontSize": "24",
+      "IsVisible": true,
+      "LabelText": "效果：",
+      "Name": "txtEffectTip",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -246.1747,
+        "y": 257.8769
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 0,
+        "y": 0
+      },
+      "TextColor": [ 0.84313725490196, 0.84313725490196, 0.84313725490196, 1 ]
+    }, {
+      "ActionTag": "-257339259",
+      "Alpha": 1,
+      "Anchor": {
+        "x": 0,
+        "y": 0
+      },
+      "Class": "Text",
+      "FontSize": "24",
+      "IsVisible": true,
+      "LabelText": "效果：",
+      "Name": "txtEffect",
+      "OutLineColor": [ 1, 0, 0, 1 ],
+      "Position": {
+        "x": -246.1744,
+        "y": 285.1568
+      },
+      "Rotation": 0,
+      "Scale": {
+        "x": 1,
+        "y": 1
+      },
+      "ShadowColor": [ 0.43137254901961, 0.43137254901961, 0.43137254901961, 1 ],
+      "ShadowOffset": [ 2, 2 ],
+      "Size": {
+        "x": 507.1369,
+        "y": 122.2568
+      },
+      "TextColor": [ 0.84313725490196, 0.84313725490196, 0.84313725490196, 1 ]
+    } ]
+  },
+  "Version": 0.1
+}
